@@ -12,3 +12,13 @@ Description here
 
 *Note: you must be on psu wifi to send requests
 
+## Frontend Setup
+
+1. Install npm and Node.js
+2. Enter the frontend folder: `cd frontend`
+3. Start webpage `npm run dev`
+
+On the webpage:
+1. To edit a button, press the button. The placeholder for the text will change to `Changing {button number`
+2. Type in the string you want and press Enter. The string will be stored.
+
