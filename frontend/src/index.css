@@ -1,0 +1,51 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.parent {
+    display: flex;
+}
+
+.panel-parent {
+    display: block;
+    margin-left: 50px;
+}
+
+.btn {
+    margin: 15px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 5px 3px 3px grey;
+}
+
+.btn:hover {
+    background-color: rgb(251, 225, 192);
+    font-size: 2.3rem;
+}
+
+.submit {
+    background-color: crimson;
+}
+
+.submit:hover {
+    background-color: rgb(211, 6, 47);
+}
+
+textarea {
+    margin-left: 50px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+textarea:focus {
+    outline-color: darkcyan!important;
+}
