@@ -19,6 +19,6 @@ Description here
 3. Start webpage `npm run dev`
 
 On the webpage:
-1. To edit a button, press the button. The placeholder for the text will change to `Changing {button number`
+1. To edit a button, press the button. The placeholder for the text will change to `Changing {button number}`
 2. Type in the string you want and press Enter. The string will be stored.
 
