@@ -1,6 +1,6 @@
 # SprgHackPSU2025
 
-Description here
+Barebonez
 
 ## Backend Setup
 
@@ -21,4 +21,8 @@ Description here
 On the webpage:
 1. To edit a button, press the button. The placeholder for the text will change to `Changing {button number}`
 2. Type in the string you want and press Enter. The string will be stored.
+
+## Keypad Setup
+
+1. Flash bone_keypad.ino to an ESP32 with the 12-key keypad
 
